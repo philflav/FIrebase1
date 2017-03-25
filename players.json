@@ -1,0 +1,79 @@
+{
+  "players" : {
+    "player01" : {
+      "Handicap" : "21",
+      "Name" : "Phil",
+      "eMail" : "pflavin@gmail.com"
+    },
+    "player02" : {
+      "Handicap" : "10",
+      "Name" : "Simon",
+      "eMail" : "x@x.com"
+    },
+    "player03" : {
+      "Handicap" : "too high!",
+      "Name" : "Basil",
+      "eMail" : "bas@btinternet.com"
+    },
+    "player04" : {
+      "Handicap" : "18",
+      "Name" : "Paul",
+      "eMail" : "paul.aldous@btinternet.com"
+    },
+    "player05" : {
+      "Handicap" : "21",
+      "Name" : "Phil",
+      "eMail" : "pflavin@gmail.com"
+    },
+    "player06" : {
+      "Handicap" : "10",
+      "Name" : "Simon",
+      "eMail" : "x@x.com"
+    },
+    "player07" : {
+      "Handicap" : "21",
+      "Name" : "Basil",
+      "eMail" : "bas@btinternet.com"
+    },
+    "player08" : {
+      "Handicap" : "12",
+      "Name" : "Paul_G",
+      "eMail" : "paul.grant@btinternet.com"
+    },
+    "player09" : {
+      "Handicap" : "10",
+      "Name" : "Simon",
+      "eMail" : "x@x.com"
+    },
+    "player10" : {
+      "Handicap" : "too high!",
+      "Name" : "XBasil",
+      "eMail" : "bas@btinternet.com"
+    },
+    "player11" : {
+      "Handicap" : "18",
+      "Name" : "XPaul",
+      "eMail" : "Xpaul.aldous@btinternet.com"
+    },
+    "player12" : {
+      "Handicap" : "21",
+      "Name" : "XPhil",
+      "eMail" : "Xpflavin@gmail.com"
+    },
+    "player13" : {
+      "Handicap" : "10",
+      "Name" : "XSimon",
+      "eMail" : "x@x.com"
+    },
+    "player14" : {
+      "Handicap" : "21",
+      "Name" : "XBasil",
+      "eMail" : "Xbas@btinternet.com"
+    },
+    "player15" : {
+      "Handicap" : "12",
+      "Name" : "XPaul_G",
+      "eMail" : "Xpaul.grant@btinternet.com"
+    }
+  }
+}
